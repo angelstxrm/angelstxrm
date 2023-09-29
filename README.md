@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @angelstxrm
-- 👀 I’m interested in python backend developent / fullstack
+- 👀 I’m interested in python backend developent
 - 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me - telegram @deppkidd
