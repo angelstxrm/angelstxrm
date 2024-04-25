@@ -4,5 +4,5 @@
 
 Мои работы:
 -
-- <a href='https://github.com/angelstxrm/dividents' target='_blank'>Django rest framework Auth</a>
-- <a href='https://github.com/angelstxrm/drf-todo-list' target='_blank'>Django rest framework Task manager</a>
+- <a href='https://github.com/angelstxrm/dividents' target='_blank'>Django rest framework Auth # 1</a>
+- <a href='https://github.com/angelstxrm/drf-todo-list' target='_blank'>Django rest framework Task manager # 2</a>
