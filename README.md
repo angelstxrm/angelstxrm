@@ -3,5 +3,5 @@
 <h3 align="center">Python backend developer, 21 y.o I from russian 🇷🇺</h3>
 
 Мои работы:
-------------------------------------------------------------
+=
 - <a href='' target='_blank'>Django rest framework Auth</a>
