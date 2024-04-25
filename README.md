@@ -3,5 +3,6 @@
 <h3 align="center">Python backend developer, 21 y.o I from russian 🇷🇺</h3>
 
 Мои работы:
-=
-- <a href='' target='_blank'>Django rest framework Auth</a>
+-
+- <a href='https://github.com/angelstxrm/dividents' target='_blank'>Django rest framework Auth</a>
+- <a href='https://github.com/angelstxrm/drf-todo-list' target='_blank'>Django rest framework Task manager</a>
