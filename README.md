@@ -9,6 +9,6 @@
 - <a href='https://github.com/angelstxrm/celery_django_docker' target='_blank'>Django + Celery + Docker project # 3</a>
 - <a href='https://github.com/angelstxrm/callhelper' target='_blank'>Call Helper django rest framework # 4</a>
 - <a href='https://github.com/angelstxrm/spotify' target='_blank'>SoundCloud by ange1 drf # 5</a>
-- <a href='https://github.com/angelstxrm/calculatortime' target='_blank'>Calculator Time Django # 6</a>
+- <a href='https://calculator.ru' target='_blank'>Calculator Time Django (DEPLOY) # 6</a>
 
 
